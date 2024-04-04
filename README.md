@@ -199,7 +199,7 @@ the Students table lists the students, providing a unique ID and name for each. 
 
 ## ER Diagram
 
-![ER Diagram](./images/Untitled%Diagram.drawio.svg)
+![ER Diagram](./images/Untitled%20Diagram.drawio.svg)
 
 
 
