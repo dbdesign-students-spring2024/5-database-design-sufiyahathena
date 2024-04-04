@@ -214,7 +214,7 @@ The original single table contained multiple pieces of information that were ind
 Professors, classrooms, courses, and students were each given their own tables with unique identifiers. This separation allows for information about these entities to be stored once and referenced elsewhere in the database, reducing redundancy and simplifying updates.
 
 ### Relationships and Associations
-The relationships between courses, professors, and classrooms are now explicitly modeled through the `Sections` table. Similarly, assignments are linked to sections, and readings to assignments, clarifying the dependencies and associations between different pieces of data.
+The relationships between courses, professors, and classrooms are now explicitly modeled through the Sections table. Similarly, assignments are linked to sections, and readings to assignments, clarifying the dependencies and associations between different pieces of data.
 
 
 
